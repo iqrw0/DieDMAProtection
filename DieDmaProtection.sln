@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DieDmaProtection", "DieDmaProtection\DieDmaProtection.vcxproj", "{46CB5F45-AF1E-458C-8287-AF9196DC9260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46CB5F45-AF1E-458C-8287-AF9196DC9260}.Debug|x64.ActiveCfg = Debug|x64
+		{46CB5F45-AF1E-458C-8287-AF9196DC9260}.Debug|x64.Build.0 = Debug|x64
+		{46CB5F45-AF1E-458C-8287-AF9196DC9260}.Debug|x86.ActiveCfg = Debug|Win32
+		{46CB5F45-AF1E-458C-8287-AF9196DC9260}.Debug|x86.Build.0 = Debug|Win32
+		{46CB5F45-AF1E-458C-8287-AF9196DC9260}.Release|x64.ActiveCfg = Release|x64
+		{46CB5F45-AF1E-458C-8287-AF9196DC9260}.Release|x64.Build.0 = Release|x64
+		{46CB5F45-AF1E-458C-8287-AF9196DC9260}.Release|x86.ActiveCfg = Release|Win32
+		{46CB5F45-AF1E-458C-8287-AF9196DC9260}.Release|x86.Build.0 = Release|Win32
+		{30EB10D5-FB57-4F67-B8E9-8A6FC30EF49E}.Debug|x64.ActiveCfg = Debug|x64
+		{30EB10D5-FB57-4F67-B8E9-8A6FC30EF49E}.Debug|x64.Build.0 = Debug|x64
+		{30EB10D5-FB57-4F67-B8E9-8A6FC30EF49E}.Debug|x86.ActiveCfg = Debug|Win32
+		{30EB10D5-FB57-4F67-B8E9-8A6FC30EF49E}.Debug|x86.Build.0 = Debug|Win32
+		{30EB10D5-FB57-4F67-B8E9-8A6FC30EF49E}.Release|x64.ActiveCfg = Release|x64
+		{30EB10D5-FB57-4F67-B8E9-8A6FC30EF49E}.Release|x64.Build.0 = Release|x64
+		{30EB10D5-FB57-4F67-B8E9-8A6FC30EF49E}.Release|x86.ActiveCfg = Release|Win32
+		{30EB10D5-FB57-4F67-B8E9-8A6FC30EF49E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE13A8E-BE06-42BA-8E9E-92CB316FB4DF}
+	EndGlobalSection
+EndGlobal
